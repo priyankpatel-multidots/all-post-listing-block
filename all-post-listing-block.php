@@ -2,7 +2,7 @@
 /**
  * Plugin Name:     All Post Listing Block
  * Description:     Plugin to add block that display post list on page.
- * Version:         1.0.0
+ * Version:         1.1.0
  * Author:          priyankkpatel
  * Author URI: 		https://profiles.wordpress.org/priyankkpatel
  * License:         GPL-2.0-or-later
