@@ -2,7 +2,7 @@
 Contributors:      priyankkpatel
 Tags:              block
 Requires at least: 5.6.0
-Tested up to:      5.9.0
+Tested up to:      6.0.2
 Stable tag:        1.1.0
 Requires PHP:      7.0.0
 License:           GPL-2.0-or-later
